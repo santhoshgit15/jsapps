@@ -5,5 +5,5 @@ function checkEvenOdd(number) {
     console.log(number + " is odd.");
   }
 }
-checkEvenOdd(7);
-checkEvenOdd(10);
+checkEvenOdd(9);
+checkEvenOdd(12);
